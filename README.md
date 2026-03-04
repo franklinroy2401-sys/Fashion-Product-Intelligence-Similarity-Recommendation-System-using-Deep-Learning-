@@ -427,7 +427,7 @@ Fashion-Product-Intelligence/
 * men\_embeddings.npy
 * image\_paths.pkl
 * class\_names.pkl
-* JSON\_to\_csv.py
+* JSON\_to\_csv.ipynb
 * app.py
 * utils.py
 * requirements.txt
@@ -438,6 +438,7 @@ Fashion-Product-Intelligence/
 **Conclusion:**
 
 This project shows a full machine learning workflow from start to finish: cleaning data, training a model, extracting features, finding similar items, and deploying the system. It is organized step by step, like how real-world ML projects are built.
+
 
 
 
